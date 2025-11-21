@@ -1,5 +1,5 @@
 # NotificationsWithDI
-Notification API built using ASP.NET Core (.NET 8) demonstrating clean architecture with Dependency Injection (DI), Repository Pattern, and Entity Framework Core.
+NotificationsWithDI API built using ASP.NET Core (.NET 8) demonstrating clean architecture with Dependency Injection (DI), Repository Pattern, and Entity Framework Core.
 This project sends Email and SMS notifications and stores them in a SQL Server database using a fully layered structure:
 
 Controllers → Handle API requests
